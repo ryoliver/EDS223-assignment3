@@ -2,7 +2,7 @@
 
 This repository includes a template Rmd for assignment 3.
 
-**Note:** the data associated with this assignment is too large to include in the GitHub repo. Instead, download data from here. Unzip the folder and all the contents and store in your directory as follows. Don't include data when you submit your assignment!
+**Note:** the data associated with this assignment is too large to include in the GitHub repo. Instead, download data from [here](https://drive.google.com/file/d/1bTk62xwOzBqWmmT791SbYbHxnCdjmBtw/view?usp=sharing). Unzip the folder and all the contents and store in your directory as follows. Don't include data when you submit your assignment!
 
     EDS223-assignment3
     │   README.md
